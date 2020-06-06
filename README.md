@@ -23,3 +23,12 @@ gitignore
 - Why to ignore files/folders? To avoid tracking of temporary files/folders that can be regenerated.
 
 git remote
+- To enable github integration, there by publishing our code in the public domain
+- git remote add origin https://github.com/SaravanaKumarKJ/LearnGit.git
+
+git push
+- git push -u {to_location} {from_location}
+- git push -u origin master
+
+Repository => folder
+D:\Playground\git-learning\LearnGit (my local system) => https://github.com/SaravanaKumarKJ/LearnGit.git (Remote Github)
